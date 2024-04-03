@@ -1,1 +1,1 @@
-Please visit [brainbows.github.io](brainbows.github.io) for more info
+Please visit [brainbows.github.io](https://brainbows.github.io/) for more info
