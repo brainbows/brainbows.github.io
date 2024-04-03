@@ -10,7 +10,7 @@
 
 ## Overview
 
-The StudyBuddy app is meant to be an app to encourage studying in groups as opposed to studying alone. While there is nothing wrong with solo study, studying with a partner or in a group can improve material retention and overall boost the mood of a study session.
+The BrainBows app is meant to be an app to encourage studying in groups as opposed to studying alone. While there is nothing wrong with solo study, studying with a partner or in a group can improve material retention and overall boost the mood of a study session.
 
 ### Team Contract
 
