@@ -47,6 +47,7 @@ Upon first clicking on the URL, the users are led to the office hourse page wher
 
 ### Calendar
 Upon clicking the URL, the user is taken to the calendars and events page where it lists all of the events that are coming up, from there the user can simply click on the event to sign up and join the study sessions.
+
 <img width ="800px" src="/doc/calendarpage.png">
 
 ### Leaderboard
