@@ -44,6 +44,8 @@ Upon first clicking on the URL, the users are led to the landing page which expl
 
 ### Calendar
 
+<img src="/doc/calendarpage.png">
+
 ### Leaderboard
 
 ## Potential Issues
