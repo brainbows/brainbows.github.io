@@ -3,8 +3,9 @@
 ## Table of Contents
 
 * [Overview](#overview)
-* [Goals](#goals)
+  * [Goals](#goals)
 * [Usage Guide](#usage-guide)
+  * [Landing Page](#landing-page)
 * [Potential Issues](#potential-issues)
 
 
@@ -27,7 +28,7 @@ The BrainBows app is meant to be an app to encourage studying in groups as oppos
 
 Documentation and a brief guide app usage.
 
-## Landing Page
+### Landing Page
 
 Upon first clicking on the URL, the users are led to the landing page which explains usages of BrainBows
 
