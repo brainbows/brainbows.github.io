@@ -21,7 +21,7 @@ The BrainBows app is meant to be an app to encourage studying in groups as oppos
 
 * To encourage camaraderie and bolster social interaction
 * Combat burnout by forming communities
-* Through relating with students in similar situations, we aim to make students feel a little lonely
+* Through relating with students in similar situations, we aim to make students feel a little LESS lonely
 * Ultimately, an improvement in grades and QoL for students
 
 ## Usage guide
