@@ -27,6 +27,12 @@ The BrainBows app is meant to be an app to encourage studying in groups as oppos
 
 Documentation and a brief guide app usage.
 
+## Landing Page
+
+Upon first clicking on the URL, the users are led to the landing page which explains usages of BrainBows
+
+<img src="/doc/brainbows-landing-page.png">
+
 ## Sample 
 
 ## Sample
