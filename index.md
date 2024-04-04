@@ -48,6 +48,10 @@ Upon clicking the URL, the user is taken to the calendars and events page where 
 
 ### Leaderboard
 
+After each study sesh, students are able to gain points. The students are able to view the students with the highest amount of points on the leaderboard page.
+
+<img src="/doc/brainbows-leaderboard-page.png">
+
 ## Potential Issues
 
 * Students tend to shy away from assistance
