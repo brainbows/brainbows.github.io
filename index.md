@@ -3,7 +3,7 @@
 ## Table of Contents
 
 * [Overview](#overview)
-    * [Goals](#goals)
+* [Goals](#goals)
 * [Usage Guide](#usage-guide)
 * [Potential Issues](#potential-issues)
 
