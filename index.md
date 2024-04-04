@@ -6,6 +6,10 @@
   * [Goals](#goals)
 * [Usage Guide](#usage-guide)
   * [Landing Page](#landing-page)
+* [Mockups](#mockups)
+  * [Office Hours Page](#office-hours-page)
+  * [Calendar](#calendar)
+  * [Leaderboard](#leaderboard)
 * [Potential Issues](#potential-issues)
 
 
@@ -34,9 +38,13 @@ Upon first clicking on the URL, the users are led to the landing page which expl
 
 <img src="/doc/brainbows-landing-page.png">
 
-## Sample 
+## Mockups
 
-## Sample
+### Office Hours Page
+
+### Calendar
+
+### Leaderboard
 
 ## Potential Issues
 
