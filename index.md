@@ -3,13 +3,13 @@
 ## Table of Contents
 
 * [Overview](#overview)
-  * [Goals](#goals)
+* [Goals](#goals)
 * [Usage Guide](#usage-guide)
-  * [Landing Page](#landing-page)
+* [Landing Page](#landing-page)
 * [Mockups](#mockups)
-  * [Office Hours Page](#office-hours-page)
-  * [Calendar](#calendar)
-  * [Leaderboard](#leaderboard)
+* [Office Hours Page](#office-hours-page)
+* [Calendar](#calendar)
+* [Leaderboard](#leaderboard)
 * [Potential Issues](#potential-issues)
 
 
