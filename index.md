@@ -32,29 +32,29 @@ The BrainBows app is meant to be an app to encourage studying in groups as oppos
 
 Documentation and a brief guide app usage.
 
+## Mockups
+
 ### Landing Page
 
 Upon first clicking on the URL, the users are led to the landing page which explains usages of BrainBows
 
 <img src="/doc/brainbows-landing-page.png">
 
-## Mockups
+### User Home Page
 
-### Office Hours Page
-
-Upon first clicking on the URL, the users are led to the office hourse page where they can schedule a meeting with their desired professor/TA.
-<img src="/doc/officehoursmockup.png">
+Upon first clicking on the URL, the users are led to their homepage which allows them to change their profile, match with other students, track their sessions and change their settings.
+<img src="/doc/brainbows-user-home-page.png">
 
 ### Calendar
 Upon clicking the URL, the user is taken to the calendars and events page where it lists all of the events that are coming up, from there the user can simply click on the event to sign up and join the study sessions.
 
-<img width ="800px" src="/doc/calendarpage.png">
+<img width ="800px" src="/doc/brainbows-calendar.png">
 
-### Leaderboard
+### Sign Up Page
 
-After each study sesh, students are able to gain points. The students are able to view the students with the highest amount of points on the leaderboard page.
+This is what our sign up page looks like. Because this is currently only available for UH students and faculty, we have a UH Email requirement. 
 
-<img src="/doc/brainbows-leaderboard-page.png">
+<img src="/doc/brainbows-singup-page.png">
 
 ## Potential Issues
 
@@ -63,3 +63,7 @@ After each study sesh, students are able to gain points. The students are able t
 ## M1
 
 <a href="https://github.com/orgs/brainbows/projects/1/views/2">M1</a>
+
+## M2
+
+<a href="https://github.com/orgs/brainbows/projects/4/views/2">M2</a>
