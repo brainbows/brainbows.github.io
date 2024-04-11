@@ -60,6 +60,8 @@ This is what our sign up page looks like. Because this is currently only availab
 
 Users will be able to view office hours times of as well as which courses each professor/TA teaches to allow them to schedule an appointment with the right professor/TA.
 
+<img src="/doc/brainbows-office-hours.png">
+
 ## Potential Issues
 
 * Students tend to shy away from assistance
