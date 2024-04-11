@@ -17,9 +17,6 @@
 
 The BrainBows app is meant to be an app to encourage studying in groups as opposed to studying alone. While there is nothing wrong with solo study, studying with a partner or in a group can improve material retention and overall boost the mood of a study session.
 
-### Team Contract
-
-[Contract](https://docs.google.com/document/d/1UTXUBMOhgexRM0GUk0DjcuveB0k8kVmOhDpdFOcIGlo/edit)
 
 ### Goals
 
@@ -66,6 +63,10 @@ Users will be able to view office hours times of as well as which courses each p
 
 * Students tend to shy away from assistance
 
+## Links
+
 <a href="https://github.com/orgs/brainbows/projects/1/views/2">M1 progress</a>
 
 <a href="https://github.com/orgs/brainbows/projects/4/views/2">M2 progress</a>
+
+[Contract](https://docs.google.com/document/d/1UTXUBMOhgexRM0GUk0DjcuveB0k8kVmOhDpdFOcIGlo/edit)
