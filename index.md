@@ -66,10 +66,6 @@ Users will be able to view office hours times of as well as which courses each p
 
 * Students tend to shy away from assistance
 
-## M1
+<a href="https://github.com/orgs/brainbows/projects/1/views/2">M1 progress</a>
 
-<a href="https://github.com/orgs/brainbows/projects/1/views/2">M1</a>
-
-## M2
-
-<a href="https://github.com/orgs/brainbows/projects/4/views/2">M2</a>
+<a href="https://github.com/orgs/brainbows/projects/4/views/2">M2 progress</a>
