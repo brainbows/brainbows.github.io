@@ -66,10 +66,10 @@ Users will be able to view office hours times of as well as which courses each p
 
 ## Links
 
-<a href="https://github.com/orgs/brainbows/projects/1/views/2">M1 progress</a>
+* <a href="https://github.com/orgs/brainbows/projects/1/views/2">M1 progress</a>
 
-<a href="https://github.com/orgs/brainbows/projects/4/views/2">M2 progress</a>
+* <a href="https://github.com/orgs/brainbows/projects/4/views/2">M2 progress</a>
 
-[Contract](https://docs.google.com/document/d/1UTXUBMOhgexRM0GUk0DjcuveB0k8kVmOhDpdFOcIGlo/edit)
+* [Contract](https://docs.google.com/document/d/1UTXUBMOhgexRM0GUk0DjcuveB0k8kVmOhDpdFOcIGlo/edit)
 
-<a href ="https://github.com/brainbows">Github organization page</a>
+* <a href ="https://github.com/brainbows">Github organization page</a>
