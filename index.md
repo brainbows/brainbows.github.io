@@ -47,6 +47,10 @@ Documentation and a brief guide app usage.
 ## Development History
 
 ### Project Pages
+
+#### Milestone 1: Mockup Development
+
+For this milestone, HTML pages were created to illustrate rough mockups of what the layout of the system will look like.
 [Milestone 1](https://github.com/orgs/brainbows/projects/1)
 
 [Milestone 2](https://github.com/orgs/brainbows/projects/4)
@@ -97,9 +101,6 @@ Users will be able to view office hours times of as well as which courses each p
 
 ## Links
 
-### Milestone 1: Mockup Development
-
-For this milestone, HTML pages were created to illustrate rough mockups of what the layout of the system will look like.
 * <a href="https://github.com/orgs/brainbows/projects/1/views/2">M1 progress</a>
 
 * <a href="https://github.com/orgs/brainbows/projects/4/views/2">M2 progress</a>
