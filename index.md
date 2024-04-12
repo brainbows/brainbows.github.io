@@ -88,7 +88,7 @@ For this milestone, HTML pages were created to illustrate rough mockups of what 
 
 ### Deployment
 
-*<a href="http://64.23.146.215">Deployed Brainbows</a>
+* <a href="http://64.23.146.215">Deployed Brainbows</a>
 
 * [Contract](https://docs.google.com/document/d/1UTXUBMOhgexRM0GUk0DjcuveB0k8kVmOhDpdFOcIGlo/edit)
 
