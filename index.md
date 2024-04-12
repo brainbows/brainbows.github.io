@@ -5,8 +5,9 @@
 * [Overview](#overview)
   * [Goals](#goals)
 * [Usage Guide](#usage-guide)
-  * [Landing Page](#landing-page)
+  * [Deployment](#deployment)
 * [Mockups](#mockups)
+  * [Landing Page](#landing-page)
   * [Office Hours Page](#office-hours-page)
   * [Calendar](#calendar)
   * [Leaderboard](#leaderboard)
@@ -29,6 +30,10 @@ The BrainBows app is meant to be an app to encourage studying in groups as oppos
 ## Usage guide
 
 Documentation and a brief guide app usage.
+
+### Deployment
+
+[UPDATE WITH DEPLOYED LINK]
 
 ## Mockups
 
