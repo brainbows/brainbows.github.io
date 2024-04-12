@@ -86,6 +86,10 @@ For this milestone, HTML pages were created to illustrate rough mockups of what 
 
 * <a href="https://github.com/orgs/brainbows/projects/4/views/2">M2 progress</a>
 
+### Deployment
+
+*<a href="http://64.23.146.215">Deployed Brainbows</a>
+
 * [Contract](https://docs.google.com/document/d/1UTXUBMOhgexRM0GUk0DjcuveB0k8kVmOhDpdFOcIGlo/edit)
 
 * <a href ="https://github.com/brainbows">Github organization page</a>
