@@ -10,12 +10,16 @@
 * [Mockups](#mockups)
   * [Landing Page](#landing-page)
   * [User Home Page](#user-home-page)
-  * [Office Hours Page](#professor/TA-office-hours-page)
   * [Calendar](#calendar)
   * [Sign Up Page](#sign-up-page)
   * [Edit Profile Page](#edit-profile-page)
+  * [Office Hours Page](#professor-TA-office-hours-page)
+* [Community Feedback](#community-feedback)
+* [Developer Guide](#developer-guide)
+* [Development History](#development-history)
 * [Potential Issues](#potential-issues)
 * [Links](#Links)
+* [Contact Us](#contact-us)
 
 
 ## Overview
@@ -81,6 +85,12 @@ Users will be able to view office hours times of as well as which courses each p
 
 <img src="/doc/brainbows-office-hours.png">
 
+## Community Feedback
+
+## Developer Guide
+
+## Development History
+
 ## Potential Issues
 
 * Students tend to shy away from assistance
@@ -101,3 +111,7 @@ For this milestone, HTML pages were created to illustrate rough mockups of what 
 * [Contract](https://docs.google.com/document/d/1UTXUBMOhgexRM0GUk0DjcuveB0k8kVmOhDpdFOcIGlo/edit)
 
 * <a href ="https://github.com/brainbows">Github organization page</a>
+
+## Contact Us
+
+BrainBows is designed, implemented, and maintained by <a href="https://braeden-cs.github.io/">Braeden Mendoza</a>, <a href="https://jayssuh.github.io/">Jay Suh</a>, <a href="https://yilamulafeier.github.io/">Yilamu Lafeier</a>, <a href="https://kaelankv.github.io/">Kaelan Valencia</a>, <a href="https://haileyfagaragan.github.io/">Hailey Fagaragan</a>
