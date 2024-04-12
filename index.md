@@ -6,8 +6,6 @@
   * [Goals](#goals)
 * [Usage Guide](#usage-guide)
   * [Deployment](#deployment)
-* [Development History](#development-history)
- * [Project Pages](#project-pages)
 * [Mockups](#mockups)
   * [Landing Page](#landing-page)
   * [User Home Page](#user-home-page)
