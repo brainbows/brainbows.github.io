@@ -9,9 +9,11 @@
 * [Project Pages](#project-pages)
 * [Mockups](#mockups)
   * [Landing Page](#landing-page)
-  * [Office Hours Page](#office-hours-page)
+  * [User Home Page](#user-home-page)
+  * [Office Hours Page](#professor/TA-office-hours-page)
   * [Calendar](#calendar)
-  * [Leaderboard](#leaderboard)
+  * [Sign Up Page](#sign-up-page)
+  * [Edit Profile Page](#edit-profile-page)
 * [Potential Issues](#potential-issues)
 * [Links](#Links)
 
