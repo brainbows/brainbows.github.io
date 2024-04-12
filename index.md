@@ -17,6 +17,8 @@
   * [Office Hours Page](#professor-TA-office-hours-page)
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
+* [Development History](#development-history)
+  * [Project Pages](#project-pages)
 * [Potential Issues](#potential-issues)
 * [Links](#Links)
 * [Contact Us](#contact-us)
@@ -43,17 +45,6 @@ Documentation and a brief guide app usage.
 ### Deployment
 
 <a href="http://64.23.146.215">Deployed Brainbows</a>
-
-## Development History
-
-### Project Pages
-
-#### Milestone 1: Mockup Development
-
-For this milestone, HTML pages were created to illustrate rough mockups of what the layout of the system will look like.
-[Milestone 1](https://github.com/orgs/brainbows/projects/1)
-
-[Milestone 2](https://github.com/orgs/brainbows/projects/4)
 
 ## Mockups
 
@@ -94,6 +85,17 @@ Users will be able to view office hours times of as well as which courses each p
 ## Community Feedback
 
 ## Developer Guide
+
+## Development History
+
+### Project Pages
+
+#### Milestone 1: Mockup Development
+
+For this milestone, HTML pages were created to illustrate rough mockups of what the layout of the system will look like.
+[Milestone 1](https://github.com/orgs/brainbows/projects/1)
+
+[Milestone 2](https://github.com/orgs/brainbows/projects/4)
 
 ## Potential Issues
 
