@@ -36,7 +36,7 @@ Documentation and a brief guide app usage.
 
 ### Deployment
 
-[UPDATE WITH DEPLOYED LINK]
+<a href="http://64.23.146.215">Deployed Brainbows</a>
 
 ## Project Pages
 [Milestone 1](https://github.com/orgs/brainbows/projects/1)
