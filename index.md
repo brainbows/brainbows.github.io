@@ -67,6 +67,12 @@ This is what our sign up page looks like. Because this is currently only availab
 
 <img src="/doc/brainbows-singup-page.png">
 
+### Edit Profile Page
+
+On the user home page, users are able to click on the edit profile button. This will lead them to a page where users are able to view their profile and make any necessary updates.
+
+<img src="/doc/brainbows-edit.png">
+
 ### Professor/TA Office Hours
 
 Users will be able to view office hours times of as well as which courses each professor/TA teaches to allow them to schedule an appointment with the right professor/TA.
