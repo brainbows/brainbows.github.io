@@ -6,6 +6,7 @@
   * [Goals](#goals)
 * [Usage Guide](#usage-guide)
   * [Deployment](#deployment)
+* [Project Pages](#project-pages)
 * [Mockups](#mockups)
   * [Landing Page](#landing-page)
   * [Office Hours Page](#office-hours-page)
