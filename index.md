@@ -6,7 +6,6 @@
   * [Goals](#goals)
 * [Usage Guide](#usage-guide)
   * [Deployment](#deployment)
-* [Mockups](#mockups)
   * [Landing Page](#landing-page)
   * [User Home Page](#user-home-page)
   * [Calendar](#calendar)
@@ -44,8 +43,6 @@ Documentation and a brief guide app usage.
 
 <a href="http://64.23.146.215">Deployed Brainbows</a>
 
-## Mockups
-
 ### Landing Page
 
 Upon first clicking on the URL, the users are led to the landing page which explains usages of BrainBows
@@ -72,7 +69,7 @@ On the user home page, students can choose to view their calendar. The user is t
 
 On the user home page, users are able to click on the edit profile button. This will lead them to a page where users are able to view their profile and make any necessary updates.
 
-<img src="/doc/brainbows-edit.png">
+<img src="/doc/brainbows-edit-page.png">
 
 ### Professor/TA Office Hours
 
