@@ -52,6 +52,12 @@ Upon first clicking on the URL, the users are led to the landing page which expl
 
 <img src="/doc/brainbows-landing-page.png">
 
+### Sign Up Page
+
+Users can sign up on the register page. The user will be prompted to fill out their name, email, and password. Because this is currently only available for UH students and faculty, we have a UH Email requirement. Also required will be the user's current grade level, the classes that they are currently taking ("grasshopper), and the classes they have taken and consider themselves "senseis" in.
+
+<img src="/doc/brainbows-register-page.png">
+
 ### User Home Page
 
 Upon first clicking on the URL, the users are led to their homepage which allows them to change their profile, match with other students, track their sessions and change their settings.
@@ -61,12 +67,6 @@ Upon first clicking on the URL, the users are led to their homepage which allows
 Upon clicking the URL, the user is taken to the calendars and events page where it lists all of the events that are coming up, from there the user can simply click on the event to sign up and join the study sessions.
 
 <img width ="800px" src="/doc/brainbows-calendar.png">
-
-### Sign Up Page
-
-This is what our sign up page looks like. Because this is currently only available for UH students and faculty, we have a UH Email requirement. 
-
-<img src="/doc/brainbows-singup-page.png">
 
 ### Edit Profile Page
 
