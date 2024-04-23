@@ -41,7 +41,7 @@ Documentation and a brief guide app usage.
 
 ### Deployment
 
-<a href="http://64.23.146.215">Deployed Brainbows</a>
+<a href="[http://64.23.146.215](https://brainbows.today/)">Deployed Brainbows</a>
 
 ### Landing Page
 
@@ -83,9 +83,9 @@ Users will be able to view office hours times of as well as which courses each p
 
 First, install Meteor.
 
-Second, visit the Bowfolios application github page, and click the “Use this template” button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo. However you do it, download a copy of the repo to your local computer.
+Second, visit the BrainBows application github page, and click the “Use this template” button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo. However you do it, download a copy of the repo to your local computer.
 
-Third, cd into the bowfolios/app directory and install libraries with:
+Third, cd into the brainbows/app directory and install libraries with:
 
 $ meteor npm install
 
