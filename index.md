@@ -41,7 +41,7 @@ Documentation and a brief guide app usage.
 
 ### Deployment
 
-<a href="[http://64.23.146.215](https://brainbows.today/)">Deployed Brainbows</a>
+<a href="https://brainbows.today/">Deployed Brainbows</a>
 
 ### Landing Page
 
