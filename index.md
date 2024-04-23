@@ -107,7 +107,13 @@ Bowfolios is based upon meteor-application-template-react and meteor-example-for
 For this milestone, HTML pages were created to illustrate rough mockups of what the layout of the system will look like.
 [Milestone 1](https://github.com/orgs/brainbows/projects/1)
 
+#### Milestone 2: Implement backend
+
 [Milestone 2](https://github.com/orgs/brainbows/projects/4)
+
+#### Milestone 3:
+
+[Milestone 3](https://github.com/orgs/brainbows/projects/5/views/7)
 
 ## Potential Issues
 
