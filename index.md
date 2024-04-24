@@ -87,17 +87,13 @@ Second, visit the BrainBows application github page, and click the “Use this t
 
 Third, cd into the brainbows/app directory and install libraries with:
 
-<hr>
 <pre>
 $ meteor npm install
 </pre>
-<hr>
 Fourth, run the system with:
-<hr>
 <pre>
 $ meteor npm run start
 </pre>
-<hr>
 If all goes well, the application will appear at http://localhost:3000.
 
 ### Application Design
