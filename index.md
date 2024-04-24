@@ -10,6 +10,7 @@
   * [User Home Page](#user-home-page)
   * [Calendar](#calendar)
   * [Sign Up Page](#sign-up-page)
+  * [Sign In Page](#sign-in-page)
   * [Edit Profile Page](#edit-profile-page)
   * [Office Hours Page](#professor-TA-office-hours-page)
 * [Community Feedback](#community-feedback)
@@ -51,9 +52,15 @@ Upon first clicking on the URL, the users are led to the landing page which expl
 
 ### Sign Up Page
 
-Users can sign up on the register page. The user will be prompted to fill out their name, email, and password. Because this is currently only available for UH students and faculty, we have a UH Email requirement. Also required will be the user's current grade level, the classes that they are currently taking ("grasshopper), and the classes they have taken and consider themselves "senseis" in.
+By clicking on the "Login" button in the upper right corner of the navbar, the user is given two options. Selecting 'sign up' will lead the user to the register page. Users can sign up on the register page. The user will be prompted to fill out their name, email, and password. Because this is currently only available for UH students and faculty, we have a UH Email requirement. Also required will be the user's current grade level, the classes that they are currently taking ("grasshopper), and the classes they have taken and consider themselves "senseis" in.
 
 <img src="/doc/brainbows-register-page.png">
+
+### Sign In Page
+
+Alternatively, if the user has already created an account with BrainBows, selecting 'sign in' will lead them to the sign in page where they will be prompted to enter their email and password.
+
+<img src="/doc/brainbows-login.png">
 
 ### User Home Page
 
