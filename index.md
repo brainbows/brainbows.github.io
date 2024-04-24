@@ -88,6 +88,7 @@ Users will be able to view office hours times of as well as which courses each p
 
 ## Developer Guide
 
+### Installation
 First, install Meteor.
 
 Second, visit the BrainBows application github page, and click the “Use this template” button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo. However you do it, download a copy of the repo to your local computer.
@@ -106,7 +107,48 @@ In order for the calendar page to function, the terminal may prompt you to run a
 If all goes well, the application will appear at http://localhost:3000.
 
 ### Application Design
-BrainBows is based upon meteor-application-template-react and meteor-example-form-react..
+BrainBows is based upon meteor-application-template-react and meteor-example-form-react.
+
+### Initialization
+
+The config directory is intended to hold settings files. The repository contains one file: config/settings.development.json.
+
+This file contains default definitions for Students, Urgent, and UrgentNotifications and the relationships between them.
+
+The settings.development.json file contains a field called “loadAssetsFile”. It is set to false, but if you change it to true, then the data in the file app/private/data.json will also be loaded. The code to do this illustrates how to initialize a system when the initial data exceeds the size limitations for the settings file.
+
+#### Quality Assurance
+##### ESLint
+
+BrainBows includes a .eslintrc file to define the coding style adhered to in this application. You can invoke ESLint from the command line as follows:
+<pre> meteor npm run lint </pre>
+
+Here is sample output indicating that no ESLint errors were detected:
+<pre>
+ PS C:\Users\braeb\OneDrive\Documents\GitHub\brainbows-source-real\app> meteor npm run lint
+
+> meteor-application-template-react@ lint C:\Users\braeb\OneDrive\Documents\GitHub\brainbows-source-real\app
+> eslint --quiet --ext .jsx --ext .js ./imports && eslint --quiet --ext .js ./tests
+
+PS C:\Users\braeb\OneDrive\Documents\GitHub\brainbows-source-real\app> 
+</pre>
+
+##### End to End Testing
+
+BrainBows uses TestCafe to provide automated end-to-end testing.
+
+The BrainBows end-to-end test code employs the page object model design pattern. In the brainbows tests/ directory, the file tests.testcafe.js contains the TestCafe test definitions. The remaining files in the directory contain “page object models” for the various pages in the system (i.e. Home, Landing, etc.) as well as one component (navbar). This organization makes the test code shorter, easier to understand, and easier to debug.
+
+To run the end-to-end tests in development mode, you must first start up a BowFolios instance by invoking meteor npm run start in one console window.
+
+Then, in another console window, start up the end-to-end tests with:
+<pre>meteor npm run testcafe</pre>
+
+You can also run the testcafe tests in “continuous integration mode”. This mode is appropriate when you want to run the tests using a continuous integration service like Jenkins, Semaphore, CircleCI, etc. In this case, it is problematic to already have the server running in a separate console, and you cannot have the browser window appear and disappear.
+
+To run the testcafe tests in continuous integration mode, first ensure that BrainBows is not running in any console.
+
+Then, invoke meteor npm run testcafe-ci. You will not see any windows appear. 
 
 ### Continuous Integration
 
