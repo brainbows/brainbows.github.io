@@ -108,6 +108,12 @@ If all goes well, the application will appear at http://localhost:3000.
 ### Application Design
 BrainBows is based upon meteor-application-template-react and meteor-example-form-react..
 
+### Continuous Integration
+
+![ci-badge](https://github.com/brainbows/brainbows-source-real/workflows/ci-brainbows/badge.svg)
+
+BrainBows uses GitHub Actions to automatically run ESLint and TestCafe each time a commit is made to the default branch. You can see the results of all recent "workflows" at <a href="https://github.com/brainbows/brainbows-source-real/actions">
+
 ## Development History
 
 ### Project Pages
