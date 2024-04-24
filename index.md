@@ -47,7 +47,7 @@ Documentation and a brief guide app usage.
 
 Upon first clicking on the URL, the users are led to the landing page which explains usages of BrainBows
 
-<img src="/doc/brainbows-landing-page.png">
+<img src="/doc/brainbows-landing.png">
 
 ### Sign Up Page
 
@@ -58,18 +58,18 @@ Users can sign up on the register page. The user will be prompted to fill out th
 ### User Home Page
 
 Upon signing in, the users are led to their homepage which allows them to change their profile, match with other students, track their sessions and change their settings.
-<img src="/doc/brainbows-user-home-page.png">
+<img src="/doc/brainbows-user-home.png">
 
 ### Calendar
 On the user home page, students can choose to view their calendar. The user is taken to the calendars and events page where it lists all of the events that are coming up, from there the user can simply click on the event to sign up and join the study sessions.
 
-<img width ="800px" src="/doc/brainbows-calendar.png">
+<img src="/doc/brainbows-calendar.png">
 
 ### Edit Profile Page
 
 On the user home page, users are able to click on the edit profile button. This will lead them to a page where users are able to view their profile and make any necessary updates.
 
-<img src="/doc/brainbows-edit-page.png">
+<img src="/doc/brainbows-edit.png">
 
 ### Professor/TA Office Hours
 
