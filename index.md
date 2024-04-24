@@ -110,9 +110,9 @@ BrainBows is based upon meteor-application-template-react and meteor-example-for
 
 ### Continuous Integration
 
-![ci-badge](https://github.com/brainbows/brainbows-source-real/workflows/ci-brainbows/badge.svg)
+[![ci-badge](https://github.com/brainbows/brainbows-source-real/workflows/ci-brainbows/badge.svg)](https://github.com/brainbows/brainbows-source-real/actions)
 
-BrainBows uses GitHub Actions to automatically run ESLint and TestCafe each time a commit is made to the default branch. You can see the results of all recent "workflows" at https://github.com/brainbows/brainbows-source-real/actions"
+BrainBows uses GitHub Actions to automatically run ESLint and TestCafe each time a commit is made to the default branch. You can see the results of all recent "workflows" at https://github.com/brainbows/brainbows-source-real/actions.
 
 ## Development History
 
