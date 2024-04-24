@@ -97,7 +97,7 @@ $ meteor npm run start
 If all goes well, the application will appear at http://localhost:3000.
 
 ### Application Design
-Bowfolios is based upon meteor-application-template-react and meteor-example-form-react. Please use the videos and documentation at those sites to better acquaint yourself with the basic application design and form processing in Bowfolios.
+BrainBows is based upon meteor-application-template-react and meteor-example-form-react..
 
 ## Development History
 
@@ -109,7 +109,7 @@ For this milestone, HTML pages were created to illustrate rough mockups of what 
 [Milestone 1](https://github.com/orgs/brainbows/projects/1)
 
 #### Milestone 2: Implement backend
-
+For this milestone, the main focus was to implement the backend of the pages created in the previous milestone.
 [Milestone 2](https://github.com/orgs/brainbows/projects/4)
 
 #### Milestone 3:
@@ -126,9 +126,11 @@ For this milestone, HTML pages were created to illustrate rough mockups of what 
 
 * <a href="https://github.com/orgs/brainbows/projects/4/views/2">M2 progress</a>
 
+* <a href="https://github.com/orgs/brainbows/projects/5/views/7">M3 progress</a>
+
 ### Deployment
 
-* <a href="http://64.23.146.215">Deployed Brainbows</a>
+* <a href="https://brainbows.today/">Deployed Brainbows</a>
 
 * [Contract](https://docs.google.com/document/d/1UTXUBMOhgexRM0GUk0DjcuveB0k8kVmOhDpdFOcIGlo/edit)
 
