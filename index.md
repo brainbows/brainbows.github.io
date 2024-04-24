@@ -69,13 +69,13 @@ On the user home page, students can choose to view their calendar. The user is t
 
 On the user home page, users are able to click on the edit profile button. This will lead them to a page where users are able to view their profile and make any necessary updates.
 
-<img src="/doc/brainbows-edit.png">
+<img src="/doc/brainbows-edit-profile.png">
 
 ### Professor/TA Office Hours
 
 Users will be able to view office hours times of as well as which courses each professor/TA teaches to allow them to schedule an appointment with the right professor/TA.
 
-<img src="/doc/brainbows-office-hours.png">
+<img src="/doc/brainbows-updated-office-hours.png">
 
 ## Community Feedback
 
