@@ -101,6 +101,8 @@ Fourth, run the system with:
 <pre>
 $ meteor npm run start
 </pre>
+In order for the calendar page to function, the terminal may prompt you to run an npm install. The following command could also be ran:
+<pre>$ meteor add fullcalendar:fullcalendar</pre>
 If all goes well, the application will appear at http://localhost:3000.
 
 ### Application Design
