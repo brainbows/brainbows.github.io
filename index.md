@@ -88,7 +88,7 @@ Users will be able to view office hours times of as well as which courses each p
 Users will be able to see all of their peers, can rate them based on how well they performed as a study peer, and chat with them if needed.
 <img src="/doc/listStudent.png">
 
-This shows the chatting part of the list
+This shows the chatting part of the list, each chat will be entirely unique and no one else can open up the messages.
 <img src="/doc/chat.png">
 
 ## Community Feedback
