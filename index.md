@@ -205,7 +205,7 @@ For this milestone, the main focus was to implement the backend of the pages cre
 [Milestone 2](https://github.com/orgs/brainbows/projects/4)
 
 #### Milestone 3:
-
+For this milestone, The main focus was to add finishing touches and fix the back end from issues arised in M2. Implementation of a couple more features.
 [Milestone 3](https://github.com/orgs/brainbows/projects/5/views/7)
 
 ## Potential Issues
