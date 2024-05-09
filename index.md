@@ -104,6 +104,14 @@ Students can add to their goals, both short term and long term.
 We like to encourage students to try their best to be good peers to each other, so we incorporated a points sytem based on how good of a peer you were, and the top students would be shown, similar to a game mechanic to keep things interesting!
 <img src="/doc/Leaderboard.png">
 
+### Create A Study Sesh
+There are two types of study sessions: urgent and regular. In an urgent study session, students can choose what class they need help in, the topic, and the start and end time. The point of an urgent session is it will notify all senseis of the class you chose that you need help and are currently in the ICSpace. Hopefully, a sensei will show up soon. In a regular study session, the user will be able to choose the sensei they want, where they will decide on the class, topic, and start and end times.
+<img src="/doc/final-study.png">
+
+### Notification
+In the case of an urgent study session, all senseis of that class wil be notified. However, for regular study sessions, only the sensei that the student has chose will be notified of the study session.
+<img src="/doc/final-notification.png">
+
 ## Community Feedback
 Here are some of the feedback that we received for our app, most of the people we asked all said that the website is very user friendly and simple to navigate. There were some criticisms about the use of the website on mobile devices and how the text doesn't render properly or that the words were all jumbled together.
 
