@@ -101,6 +101,7 @@ We like to encourage students to try their best to be good peers to each other, 
 <img src="/doc/Leaderboard.png">
 
 ## Community Feedback
+Here are some of the feedback that we received for our app, most of the people we asked all said that the website is very user friendly and simple to navigate. There were some criticisms about the use of the website on mobile devices and how the text doesn't render properly or that the words were all jumbled together.
 * Viveka L.
 The app seems very straight forward and very user friendly, however when opening the app on a mobile device, or a device that isn't a desktop, the texts get all jumbled and messed up. However, the login and signup could be a bit easier for users but overall its very user friendly.
 * Kikyo M.
