@@ -49,7 +49,7 @@ Documentation and a brief guide app usage.
 
 Upon first clicking on the URL, the users are led to the landing page which explains usages of BrainBows
 
-<img src="/doc/brainbows-landing.png">
+<img src="/doc/final-landing.png">
 
 ### Sign Up Page
 
