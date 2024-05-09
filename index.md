@@ -84,6 +84,9 @@ Users will be able to view office hours times of as well as which courses each p
 
 <img src="/doc/brainbows-updated-office-hours.png">
 
+### Students Page
+Users will be able to see all of their peers, can rate them based on how well they performed as a study peer, and chat with them if needed.
+
 ## Community Feedback
 
 ## Developer Guide
