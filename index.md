@@ -102,16 +102,22 @@ We like to encourage students to try their best to be good peers to each other, 
 
 ## Community Feedback
 Here are some of the feedback that we received for our app, most of the people we asked all said that the website is very user friendly and simple to navigate. There were some criticisms about the use of the website on mobile devices and how the text doesn't render properly or that the words were all jumbled together.
+
 * Viveka L.
 The app seems very straight forward and very user friendly, however when opening the app on a mobile device, or a device that isn't a desktop, the texts get all jumbled and messed up. However, the login and signup could be a bit easier for users but overall its very user friendly.
+
 * Kikyo M.
 The design is very modern and simple, there could be a little more graphic design part of it, but overall very user friendly and locating things is very easy.
+
 * Jasmynne K.
 Everything is easy to locate, the directions are very straight forward. I really like the implementation of the rating system, the clear button seems a bit out of place since students shouldn't be able to manipulate the average rating, since they could always just clear it for themselves and make them seem better than they are.
+
 * Ana R.
 Although I am not a part of the computer science classes, I like that the color scheme matches the UH colors, its a very simple and straightforward app, very user friendly, and for something like finding people to study with, I can see myself using this in future since it gets to the point of trying to find people to study with.
+
 * Eunho K.
 I like how everything is nicely organized to its palce, there's not really any exploring I have to do to find anything, everything that I would need to look for. For the page with all of the students on it, it looks a little clunky and right up in your face, but overall it's very easy to navigate and make use of.
+
 * Jamie M.
 It's a little bland for a website, but since it's very easy to navigate and easy to use. Why does everyone look the same? And the profile editing page could be a little simpler instead of having the user input a link to their profile picture, but this is all minor issues that could be fixed and I can't wait to see how this app developes in the future. I wish I had something like this while I was still in college.
 
