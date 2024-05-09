@@ -92,6 +92,14 @@ Users will be able to see all of their peers, can rate them based on how well th
 This shows the chatting part of the list, each chat will be entirely unique and no one else can open up the messages.
 <img src="/doc/chat.png">
 
+### Goals
+We want the user to always remember their motivations and have it as a constant reminder to what they're trying to attain. So we implemented a Goals system; to not only keep it as a constant reminder, but also for students to create new ones while making progress on their academic journey.
+
+
+### Leaderboard
+We like to encourage students to try their best to be good peers to each other, so we incorporated a points sytem based on how good of a peer you were, and the top students would be shown, similar to a game mechanic to keep things interesting!
+<img>
+
 ## Community Feedback
 
 ## Developer Guide
