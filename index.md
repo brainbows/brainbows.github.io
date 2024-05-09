@@ -64,8 +64,8 @@ Alternatively, if the user has already created an account with BrainBows, select
 
 ### User Home Page
 
-Upon signing in, the users are led to their homepage which allows them to change their profile, match with other students, track their sessions and change their settings.
-<img src="/doc/brainbows-user-home.png">
+Upon signing in, the users are led to their homepage which allows them to change their profile, match with other students, see the calendar, check professors office hours, check the leaderboard, as well as create and view their goals.
+<img src="/doc/home-page.png">
 
 ### Calendar
 On the user home page, students can choose to view their calendar. The user is taken to the calendars and events page where it lists all of the events that are coming up, from there the user can simply click on the event to sign up and join the study sessions.
@@ -86,6 +86,10 @@ Users will be able to view office hours times of as well as which courses each p
 
 ### Students Page
 Users will be able to see all of their peers, can rate them based on how well they performed as a study peer, and chat with them if needed.
+<img src="/doc/listStudent.png">
+
+This shows the chatting part of the list
+<img src="/doc/chat.png">
 
 ## Community Feedback
 
