@@ -98,7 +98,7 @@ We want the user to always remember their motivations and have it as a constant 
 
 ### Leaderboard
 We like to encourage students to try their best to be good peers to each other, so we incorporated a points sytem based on how good of a peer you were, and the top students would be shown, similar to a game mechanic to keep things interesting!
-<img>
+<img src="/doc/Leaderboard.png">
 
 ## Community Feedback
 
