@@ -71,19 +71,19 @@ Upon signing in, the users are led to their homepage which allows them to change
 ### Calendar
 On the user home page, students can choose to view their calendar. The user is taken to the calendars and events page where it lists all of the events that are coming up, from there the user can simply click on the event to sign up and join the study sessions.
 
-<img src="/doc/brainbows-calendar.png">
+<img src="/doc/final-calendar.png">
 
 ### Edit Profile Page
 
 On the user home page, users are able to click on the edit profile button. This will lead them to a page where users are able to view their profile and make any necessary updates.
 
-<img src="/doc/brainbows-edit-profile.png">
+<img src="/doc/final-edit.png">
 
 ### Professor/TA Office Hours
 
 Users will be able to view office hours times of as well as which courses each professor/TA teaches to allow them to schedule an appointment with the right professor/TA.
 
-<img src="/doc/brainbows-updated-office-hours.png">
+<img src="/doc/final-office-hours.png">
 
 ### Students Page
 Users will be able to see all of their peers, can rate them based on how well they performed as a study peer, and chat with them if needed.
@@ -95,6 +95,10 @@ This shows the chatting part of the list, each chat will be entirely unique and 
 ### Goals
 We want the user to always remember their motivations and have it as a constant reminder to what they're trying to attain. So we implemented a Goals system; to not only keep it as a constant reminder, but also for students to create new ones while making progress on their academic journey.
 <img src="/doc/CreateGoals.png">
+
+### Add Goals
+Students can add to their goals, both short term and long term.
+<img src="/doc/final-add-goals.png">
 
 ### Leaderboard
 We like to encourage students to try their best to be good peers to each other, so we incorporated a points sytem based on how good of a peer you were, and the top students would be shown, similar to a game mechanic to keep things interesting!
