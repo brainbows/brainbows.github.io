@@ -55,7 +55,7 @@ Upon first clicking on the URL, the users are led to the landing page which expl
 
 By clicking on the "Login" button in the upper right corner of the navbar, the user is given two options. Selecting 'sign up' will lead the user to the register page. Users can sign up on the register page. The user will be prompted to fill out their name, email, and password. Because this is currently only available for UH students and faculty, we have a UH Email requirement. Also required will be the user's current grade level, the classes that they are currently taking ("grasshopper), and the classes they have taken and consider themselves "senseis" in.
 
-<img src="/doc/brainbows-register-page.png">
+<img src="/doc/final-register.png">
 
 ### Sign In Page
 
