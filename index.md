@@ -13,6 +13,7 @@
   * [Sign In Page](#sign-in-page)
   * [Edit Profile Page](#edit-profile-page)
   * [Office Hours Page](#professor-TA-office-hours-page)
+  * [Students Page](#students-page)
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
 * [Development History](#development-history)
